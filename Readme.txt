@@ -1,8 +1,8 @@
-How to run the Teachers Record Management System (LSSEMS) Project
+How to run the Hive Connect Project
 
 1. Download the zip file
 
-2. Extract the file and copy lssems folder
+2. Extract the file and copy HiveConnect folder
 
 3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
@@ -12,7 +12,7 @@ How to run the Teachers Record Management System (LSSEMS) Project
 
 6. Import lssemsdb.sql file (given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/lssems (frontend)
+7.Run the script http://localhost/HiveConnect (frontend)
 
 **********************Credential for admin panel**********************
 
